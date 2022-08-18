@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas al componente AppPrincipal validar el renderizados de saludos y el subtitulo 1`] = `
+<div>
+  <h1>
+    Frontend 12 Bienvenidos
+  </h1>
+  <h3>
+    Les quedan solo 4 clases para finalizar el Bootcamp
+  </h3>
+  <p>
+    La información esta correcta
+  </p>
+</div>
+`;
